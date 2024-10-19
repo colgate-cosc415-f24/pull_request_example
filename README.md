@@ -10,7 +10,7 @@ Creating a pull request from the shell (git command line):
 
  3. Change to that new branch
 
- 4. Edit this README.md file, under the section below labeled Your edits. Add a couple lines of text to introduce yourself and to say what you did over the summer.
+ 4. Edit this README.md file, under the section below labeled Your edits. Add a couple lines of text, e.g., your favorite snack(s).
 
  5. Commit the changes to your local repo (make sure the changes go to your branch, not to the main branch)
 
