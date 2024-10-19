@@ -23,4 +23,4 @@ Creating a pull request from the shell (git command line):
 
 # Your edits
 
-Replace this text with your favorite midnight snack.
+Add your favorite snack(s) here.
